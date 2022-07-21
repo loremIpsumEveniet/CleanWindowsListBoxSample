@@ -1,0 +1,6 @@
+
+char* textToPrint;
+
+void UpdateConsole() {
+	
+}
